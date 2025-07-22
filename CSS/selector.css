@@ -1,0 +1,19 @@
+/*unicersal selector*/
+* {
+  color: blue;
+}
+
+/*element selector*/
+p {
+  color: black;
+}
+
+/* id selector */
+#hadding1 {
+  color: black;
+}
+
+/* class selector */
+.houseclass {
+  color: aquamarine;
+}
