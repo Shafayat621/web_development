@@ -1,0 +1,35 @@
+.p1 {
+  height: 200px;
+  width: 200px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: aquamarine;
+}
+
+.p2 {
+  border: 10px solid red;
+}
+
+.div1,
+.div2,
+.div3,
+.div4,
+.div5 {
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  background-color: lightblue;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.div4 {
+  border-radius: 50%;
+}
+
+.div5 {
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+}
