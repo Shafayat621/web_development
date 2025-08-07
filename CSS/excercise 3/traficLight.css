@@ -1,0 +1,31 @@
+.traficLight {
+  height: 300px;
+  width: 100px;
+  background-color: black;
+  padding-top: 20px;
+}
+.forRed {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: red;
+  margin-bottom: 50px;
+  margin-left: 25px;
+}
+.forYellow {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: yellow;
+  margin-bottom: 50px;
+  margin-left: 25px;
+}
+
+.forGreen {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: green;
+  margin-bottom: 50px;
+  margin-left: 25px;
+}
